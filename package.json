@@ -1,0 +1,24 @@
+{
+  "name": "learn-azure-webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremyfiel/learn-azure-webapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremyfiel/learn-azure-webapp/issues"
+  },
+  "homepage": "https://github.com/jeremyfiel/learn-azure-webapp#readme",
+  "dependencies": {
+    "http": "*"
+  }
+}
